@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/77943169/123808823-78b2b000-d8c7-11eb-9d44-3fdc8ff09595.png)
 
 
 ## Projeto GitHub
@@ -21,9 +22,13 @@ https://dayanelang-appgithub.surge.sh/
 ### Dependências
 
 -React;
+
 -Styled Components;
--MaterialUi
+
+-MaterialUi;
+
 -Axios;
+
 -Eslint;
 
 ### Desenvolvimento
